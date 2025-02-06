@@ -1,0 +1,9 @@
+%%
+
+
+%%
+
+NCOfreq = 4.5;  % RF DAC NCO frequency (GHz)
+NCOphase = 0;  % RF DAC NCO phase 
+FsDAC = 7000; % DAC output sample rate (MSPS)
+ImagOutput = ;
